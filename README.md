@@ -45,27 +45,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack | Highlight |
-|---|---|---|---|
-| [🧠 EEG Emotion Classification](https://github.com/KhushhaliSharmaa/Emotion-Analysis-using-EEG-signals) | End-to-end emotion recognition from EEG signals on DEAP dataset | Python · SVM · PCA · scikit-learn | **Grade 10.0/10.0** |
-| [📡 EEG Channel Selection Study](https://github.com/KhushhaliSharmaa/Effect-of-Sensor-Selection-and-Features-on-Inter-Subject-emotion-classification) | Effect of channel reduction (5–32 sensors) on inter-subject emotion classification | Python · SVM · Feature Engineering | **IEEE Confluence 2023** |
-| [🌱 Vertical Farming Cost Prediction](https://github.com/KhushhaliSharmaa) | Regression models for operational cost forecasting on hybrid microgrid data | Python · Ridge · Lasso · scikit-learn | **~20% error reduction** |
-| [🔍 Fraud Detection](https://github.com/KhushhaliSharmaa/Fraud-Detection-Project) | ML classification pipeline for financial fraud detection | Python · pandas · scikit-learn | End-to-end pipeline |
-
----
-
-### 📄 Publication
-
-**Sharma, K. et al.** &nbsp;·&nbsp; IEEE Confluence 2023 &nbsp;·&nbsp; **First Author**
-
-*"Investigating the Effect of EEG Channel Selection on Inter-subject Emotion Classification"*
-
-[![DOI](https://img.shields.io/badge/DOI-10.1109%2FConfluence56041.2023.10048851-006DB0?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1109/Confluence56041.2023.10048851)
-
----
-
 <div align="center">
 
 *Open to Werkstudent, Internship & Student Assistantship opportunities*
