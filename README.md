@@ -1,7 +1,6 @@
 <div align="center" style="background-color:#0d1117; padding:10px; border-radius:12px;">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6e40c9,50:a855f7,100:06b6d4&height=220&section=header&text=Khushali%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Curious%20about%20patterns.%20Obsessed%20with%20clarity.&descSize=17&descAlignY=62&descColor=e2d9f3&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6e40c9,50:a855f7,100:06b6d4&height=220&section=header&text=Khushali%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Curious%20about%20patterns.%20Obsessed%20with%20clarity.&descSize=17&descAlignY=62&descColor=e2d9f3&animation=fadeIn&stroke=ffffff&strokeWidth=1&bg_color=0d1117" />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushhali-sharmaa/)
